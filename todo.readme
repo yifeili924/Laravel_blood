@@ -1,0 +1,50 @@
+    - Technical tasks
+	- 3rd subscription
+		- interactive cases
+			- DESIGN
+			- Admin:
+			    - Admin can flag which icases are displayed in the listings.
+			- User pages:
+				- Icases email: User can opt in or out of Icases emails
+				- Icasse email: emails sent when 1) a case is published, 2) X days before Icase closing date 3) when icase reports are published.
+				- Icases cache report for closed icases. : DONE
+	- Encapsulation of interactive modules
+	- Process remaining images
+	- Make sure slide annotations are good to go.
+	- Make backend for job agencies.
+	- Institutional access
+
+	Trial period: When resource hub is free trail enabled by the env file: ****DONE****
+	    -   User flow upon registration:
+	            *   Upon registration users can see RH and interact with resource hub.
+	            *   User can see other areas in the dashboard but redirected to payment upon clicking - Make trialable areas look
+	                                                                                                    Different than non trialable
+        -   User flow coming from SM:
+                *   Can land only see the current active Icase: instead of submit buttons give links to registration
+
+
+    Non Trial Period: *decide that later
+        -   User flow upon registration:
+                *   User can click deeper into Icases where they can see the Icases but unable to submit, users are unable to access past ICases
+                *   User can see all areas of site, but upon clicking redirected to payment page.
+        -   User flow coming from SM:
+                *   Can land only on the current active Icase: instead of submit buttons give links to (registration + payments page).
+
+
+
+   *CHECK PASSWORD RESET*
+
+   *payment page modify 3rd subscription to say 12 months resource hub including interactive case.*
+
+
+
+
+
+
+  Campaign Creation:
+        -   Admin creates campaign:
+                -> 3 campaign are created:
+                        -> new Interactive case campaign: scheduled for icase publish date @ 11:00am
+                        -> reminder to submit campaign: shecudled for x days before icase closing date @ 2:00pm: segmet: exclude memebers
+                           with case_id field set to the current case id.
+                        -> checkout report campaign: scheduled on closing date @ 9:00

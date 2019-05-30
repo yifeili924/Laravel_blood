@@ -1,0 +1,218 @@
+SA1|SA1|SA|Blood|Myelodysplastic syndrome|MYELOID|||File category|Category
+SA2|SA2|SA|Blood|Iron deficient polycythaemia|RED CELL|||SA|Myeloid
+SA3|SA3|SA|Blood|Oxidative damage secondary to G6PD deficiency|RED CELL|||LC|Lymphoid
+SA4|SA4|SA|Blood|Hereditary elliptocytosis|RED CELL|||C|Red cell
+SA5|SA5|SA|Blood|Normal blood film|Miscellaneous||||Miscellaneous
+SA6|SA6|SA|Blood 1|Myeloproliferative neoplasm|MYELOID||||
+SA7|SA7|SA|Blood|Acute myeloid leukaemia|MYELOID|||Notes|
+SA8|SA8|SA|Blood|Eosinophilia|Miscellaneous||||
+SA9|SA9|SA|Blood|Chronic myelomonocytic leukaemia (CMML) transformed to acute myeloid leukaemia (AML)|MYELOID|||LC7(A) missing|
+SA10|SA10|SA|Blood 1|Megaloblastic anaemia|Miscellaneous|||SA61 reassign|
+SA11|SA11|SA|Blood|T-cell acute lymphoblastic leukaemia (ALL)|LYMPHOID||||
+SA12|SA12|SA|Blood|Follicular lymphoma in leukaemic phase|LYMPHOID||||
+SA13|SA13|SA|Blood 2|Myeloproliferative neoplasm|MYELOID||||
+SA14|SA14|SA|Blood 1|Sickle cell anaemia (HbSS)|RED CELL||||
+SA15|SA15|SA|Blood|Iron deficiency anaemia|Miscellaneous||||
+SA16|SA16|SA|Blood|Myelodysplastic syndrome with circulating blasts |MYELOID||||
+SA17|SA17|SA|Blood 1|Marginal zone lymphoma in leukaemic phase|LYMPHOID||||
+SA18|SA18|SA|Blood 1|Plasmodium falciparum infection|Miscellaneous||||
+SA19|SA19|SA|Blood 1|Plasma cell leukaemia|LYMPHOID||||
+SA20|SA20|SA|Blood 1|Acute promyelocytic leukaemia|MYELOID||||
+SA21|SA21|SA|Blood|Transient abnormal myelopoeisis (TAM)|MYELOID||||
+SA22|SA22|SA|Blood|Autoimmune haemolysis post transfusion|Miscellaneous||||
+SA23|SA23|SA|Blood|Hereditary spherocytosis post splenectomy|RED CELL||||
+SA24|SA24|SA|Blood|Hairy cell leukaemia variant|LYMPHOID||||
+SA25|SA25|SA|Blood|Acute infectious mononucleosis|Miscellaneous||||
+SA26|SA26|SA|Blood|Thrombotic thrombocytopenia purpura|Miscellaneous||||
+SA27|SA27|SA|Blood|Splenic marginal zone lymphoma post splenectomy|LYMPHOID||||
+SA28|SA28|SA|Blood|Cold haemagglutinin disease (CHAD)|Miscellaneous||||
+SA29|SA29|SA|Blood|Escherichia coli septicaemia|Miscellaneous||||
+SA30|SA30|SA|Blood 1|Hairy cell leukaemia|LYMPHOID|USE OLD|||
+SA31|SA31|SA|BM trephine|Hairy cell leukaemia|LYMPHOID|USE OLD|||
+SA32|SA32|SA|Blood 1|Chronic lymphocytic leukaemia (CLL)|LYMPHOID||||
+SA33|SA33|SA|Blood 1|Beta thalassaemia intermedia|RED CELL||||
+SA34|SA34|SA|Blood|Sideroblastic anaemia|RED CELL||||
+SA35|SA35|SA|Blood|EDTA induced platelet clumping|Miscellaneous||||
+SA36|SA36|SA|Blood|Leukaemoid reaction secondary to G-CSF|Miscellaneous||||
+SA37|SA37|SA|Blood|Acute myeloid leukaemia|MYELOID||||
+SA38|SA38|SA|Blood|HbC disease (HbCC)|RED CELL||||
+SA39|SA39|SA|Blood|Chronic lymphocytic leukaemia (CLL) with autoimmune haemolytic anaemia|LYMPHOID||||
+SA40|SA40|SA|Blood|Chronic myeloid leukaemia (CML) in chronic phase|MYELOID||||
+SA41|SA41|SA|Blood|Acute promyelocytic leukaemia  hypogranular variant |MYELOID||||
+SA42|SA42|SA|Blood|Erythroblastosis fetalis|RED CELL||||
+SA43|SA43|SA|Blood|Iron deficiency with recent  transfusion and chronic liver disease|RED CELL||||
+SA44|SA44|SA|Blood|Mixed iron and vitamin B12 deficiency|RED CELL||||
+SA45|SA45|SA|Blood|Beta thalassaemia trait|RED CELL||||
+SA46|SA46|SA|Blood|Homozygous HbE (HbEE)|RED CELL||||
+SA47|SA47|SA|Blood|Leukaemoid reaction secondary to malignancy|Miscellaneous||||
+SA48|SA48|SA|Blood|Severe liver graft vs. host disease post stem cell transplant |Miscellaneous||||
+SA49|SA49|SA|Blood|Multiple myeloma|LYMPHOID||||
+SA50|SA50|SA|Blood|Sickle cell anaemia (HbSS) and transfused red cells |RED CELL|USE OLD|||
+SA51|SA51|SA|Blood|Microangiopathic haemolytic anaemia post stem cell transplant|Miscellaneous||||
+SA52|SA52|SA|Blood|HbSC heterozygosity|RED CELL|AWAITING RESCAN|||
+SA53|SA53|SA|Blood|Sickle cell anaemia (HbSS) and alpha thalassaemia trait|RED CELL||||
+SA54|SA54|SA|Blood|Macrothrombocytopenia|Miscellaneous||||
+SA55|SA55|SA|Blood|Acquired HbH disorder|RED CELL||||
+SA56|SA56|SA|Blood|Mantle cell lymphoma in leukaemic phase|LYMPHOID||||
+SA57|SA57|SA|Blood|Pyruvate kinase deficiency|RED CELL||||
+PureerythroG482013607|SA58|SA|Blood|Acute erythroblastic leukaemia|MYELOID|HIG|||
+SA59|SA59|SA|Blood|Adult T-cell leukaemia/lymphoma (ATLL) |LYMPHOID||||
+SA60|SA60|SA|Blood|Eosinophilia and Loa loa|Miscellaneous||||
+SA62|SA62|SA|Blood|May-Hegglin anomoly|Miscellaneous||||
+SA63|SA63|SA|Blood 1|Leucoeryhtroblastic blood film|Miscellaneous||||
+SA64|SA64|SA|Blood|Trypanosoma brucei infection|Miscellaneous||||
+SA65|SA65|SA|BM aspirate|Leishamaniasis infection|Miscellaneous||||
+SA66|SA66|SA|Blood 1|T-cell large granular lymphocytic leukaemia (T-LGL)|LYMPHOID||||
+SA67|SA67|SA|Blood|B-cell prolymphocytic leukaemia (B-PLL)|LYMPHOID||||
+SA68|SA68|SA|Blood|Post splenectomy changes|Miscellaneous||||
+SA69|SA69|SA|Blood|Acute monoblastic leukaemia|MYELOID||||
+SA70|SA70|SA|Blood 2|Plasma cell proliferation|Miscellaneous||||
+R10borellia-002|SA71|SA|Blood|Boriella infection|Miscellaneous|HIG|||
+Pf&PoThinfilmR14-0520101015|SA72(A)|SA|Blood (thin film)|Mixed Plasmodium falciparum and Plasmodium ovalae|Miscellaneous|HIG|||
+Pf&PothickR14A20101015|SA72(B)|SA|Blood (thick film)|Mixed Plasmodium falciparum and Plasmodium ovalae|Miscellaneous||||
+PfalciparumR1420101022|SA73|SA|Blood 2|Plasmodium falciparum infection|Miscellaneous|HIG|||
+SA74|SA74|SA|Blood|Trapnosoma cruzii infection|Miscellaneous|HIG|SVS file||
+Candida-007|SA75|SA|Blood|Candida infection|Miscellaneous|HIG|||
+SA76|SA76|SA|Blood|South-East Asian elliptocytosis|RED CELL|HIG|SVS file||
+NormalMarrow|SA77|SA|BM aspirate|Normal BM aspirate|Miscellaneous|HIG|||
+SA78|SA78|SA|Blood|Sezary Syndrome|LYMPHOID|HIG|SVS file||
+NeimanPickBMA20120705|SA79|SA|BM aspirate|Neiman Pick Disease|Miscellaneous|HIG|||
+ChediakHagashi-004|SA80|SA|Blood|Chediak Hagashi syndrome|Miscellaneous|HIG|||
+PelgerHuetVW5420111117|SA81|SA|Blood|Pelger-Huet Anomaly|Miscellaneous|HIG|||
+ParvovirusB19BMA0220100101|SA82(A)|SA|BM aspirate|Parvovirus infection|Miscellaneous|HIG|||
+ParvovirusB19BMT20100401|SA82(B)|SA|BM trephine|Parvovirus infection|Miscellaneous|HIG|||
+SA83|SA83|SA|Blood|Myelodysplastic syndrome with prominent acanthocytes|MYELOID||||
+SA84|SA84|SA|Blood|Bernard Soulier Syndrome|Miscellaneous||||
+SA85|SA85|SA|Blood|ITP post splenectomy|Miscellaneous||||
+SA86|SA86|SA|Blood|EDTA storage artefact changes|Miscellaneous||||
+SA87|SA87|SA|Blood Giemsa|Wuchereria bancrofti infection|Miscellaneous||||
+SA88|SA88|SA|Blood Giemsa|Plasmodium knowlesi infection|Miscellaneous||||
+SA89|SA89|SA|Blood Giemsa|Plasmodium ovale infection|Miscellaneous||||
+LC1(A)|LC1(A)|LC|Blood|Diffuse large B-cell lymphoma in leukaemic phase|LYMPHOID||||
+LC1(B)|LC1(B)|LC|BM trephine|Diffuse large B-cell lymphoma in leukaemic phase|LYMPHOID||||
+LC2(A)|LC2(A)|LC|Blood|Myeloproliferative neoplasm|MYELOID||||
+LC2(B)|LC2(B)|LC|BM trephine|Myeloproliferative neoplasm|MYELOID||||
+LC2(C)|LC2(C)|LC|Blood|Leukaemic/myelodysplastic transformation of myeloprolierative neoplasm|MYELOID||||
+LC3(A)|LC3(A)|LC|BM aspirate|Hodgkin lymphoma bone marrow infiltration|LYMPHOID||||
+LC3(B)|LC3(B)|LC|BM trephine|Hodgkin lymphoma bone marrow infiltration|LYMPHOID||||
+LC4(A)|LC4(A)|LC|Blood|Primary myelofibrosis|MYELOID||||
+LC4(B)|LC4(B)|LC|BM trephine|Primary myelofibrosis|MYELOID||||
+LC5(A)|LC5(A)|LC|Blood 2|Leucoeryhtroblastic blood film|Miscellaneous|USE OLD|||
+LC5(B)|LC5(B)|LC|BM aspirate|Non-haematopoeitic bone marrow infiltration (EpCAM positive)|Miscellaneous||||
+LC6(A)|LC6(A)|LC|BM aspirate|Megaloblastic anaemia|Miscellaneous||||
+LC6(B)|LC6(B)|LC|BM trephine|Megaloblastic anaemia|Miscellaneous||||
+LC7(A)|LC7(A)|LC|BM trephine|Bone marrow non-caeseating granulomas secondary to sarcoidosis|Miscellaneous||||
+LC8(A)|LC8(A)|LC|BM aspirate|Reactive bone marrow changes|Miscellaneous||||
+LC8(B)|LC8(B)|LC|BM trephine|Reactive bone marrow changes|Miscellaneous||||
+LC9(A)|LC9(A)|LC|BM trephine 1|Burkitt lymphoma|LYMPHOID|USE OLD|||
+LC10(A)|LC10(A)|LC|Blood|Refractory anaemia with ring sideroblasts with thrombocytosis (RARS-T)|MYELOID||||
+LC10(B)|LC10(B)|LC|BM aspirate|Refractory anaemia with ring sideroblasts with thrombocytosis (RARS-T)|MYELOID||||
+LC10(C) |LC10(C) |LC|BM aspirate Perl's stain|Refractory anaemia with ring sideroblasts with thrombocytosis (RARS-T)|MYELOID||||
+LC10(D)|LC10(D)|LC|BM trephine|Refractory anaemia with ring sideroblasts with thrombocytosis (RARS-T)|MYELOID||||
+LC11(A)|LC11(A)|LC|Blood 2|Beta thalassaemia intermedia|RED CELL||||
+LC11(B)|LC11(B)|LC|Blood|HbH disease|RED CELL||||
+LC12(A)|LC12(A)|LC|Blood|Haemophagocytic syndrome secondary to T-cell lymphoma|LYMPHOID||||
+LC12(B)|LC12(B)|LC|BM aspirate|Haemophagocytic syndrome secondary to T-cell lymphoma|LYMPHOID||||
+LC13(A)|LC13(A)|LC|BM trephine|Chronic myeloid leukaemia (CML) in chronic phase|MYELOID||||
+LC14(A)|LC14(A)|LC|BM aspirate|Systemic mastocytosis|MYELOID||||
+LC14(B)|LC14(B)|LC|BM trephine|Systemic mastocytosis|MYELOID||||
+LC15(A)|LC15(A)|LC|Blood 1|T-cell prolymphocytic leukaemia (T-PLL)|LYMPHOID||||
+LC16(A)|LC16(A)|LC|Blood|Acute myeloid leukaemia with inv(16)|MYELOID||||
+LC16(B)|LC16(B1)|LC|BM aspirate 1|Acute myeloid leukaemia with inv(16)|MYELOID||||
+AMLinv(16)G32013522|LC16(B2)|LC|BM aspirate 2|Acute myeloid leukaemia with inv(16)|MYELOID|HIG|||
+LC17(A)|LC17(A)|LC|BM trephine|Follicular lymphoma BM infiltration|LYMPHOID||||
+LC18(A)|LC18(A)|LC|BM trephine|Aplastic anaemia|Miscellaneous||||
+LC19(A)|LC19(A)|LC|BM trephine|Lymphoplasmacytic lymphoma|LYMPHOID||||
+LC20(A)|LC20(A)|LC|BM aspirate 1|Acute myeloid leukaemia with t(8;21)|MYELOID||||
+AMLt8-21|||BM aspirate 2|Acute myeloid leukaemia with t(8;21)|MYELOID|HIG|||
+LC20(B)|LC20(B)|LC|BM trephine|Acute myeloid leukaemia with t(8;21)|MYELOID||||
+LC21(A)|LC21(A)|LC|BM aspirate|Lymphoid blast crisis of chronic myeloid leukaemia|LYMPHOID||||
+LC22(A)|LC22(A)|LC|Blood|Acute monoblastic leukaemia|MYELOID||||
+LC22(B)|LC22(B)|LC|BM aspirate 1|Acute monoblastic leukaemia|MYELOID||||
+AMLM5aG432013606|LC22(B)|LC|BM aspirate 2|Acute monoblastic leukaemia|MYELOID|HIG|||
+LC23(A)|LC23(A)|LC|BM aspirate|Neuroblastoma BM infiltration|Miscellaneous||||
+LC23(B)|LC23(B)|LC|BM trephine 1|Neuroblastoma BM infiltration|Miscellaneous||||
+LC23(C) |LC23(C) |LC|BM trephine 2|Neuroblastoma BM infiltration|Miscellaneous||||
+LC24(A)|LC24(A)|LC|Blood 2|T-cell large granular lymphocytic leukaemia (T-LGL)|LYMPHOID||||
+LC25(A)|LC25(A)|LC|BM aspirate|B-cell acute lymphoblastic leukaemia with aberrant myeloid markers|LYMPHOID||||
+LC25(B)|LC25(B)|LC|BM trephine|B-cell acute lymphoblastic leukaemia with aberrant myeloid markers|LYMPHOID||||
+LC26(A)|LC26(A)|LC|BM aspirate|Metastatic alveolar rhabdomyosarcoma bone marrow infiltration|Miscellaneous||||
+LC26(B)|LC26(B)|LC|BM trephine|Metastatic alveolar rhabdomyosarcoma bone marrow infiltration|Miscellaneous||||
+LC28(A)|LC28(A)|LC|Blood|CML and CLL dual pathology|MYELOID||||
+LC28(B)|LC28(B)|LC|BM aspirate|CML and CLL dual pathology|MYELOID||||
+LC28(C) |LC28(C) |LC|BM trephine|CML and CLL dual pathology|MYELOID||||
+LC29(A)|LC29(A)|LC|BM aspirate|Diamond Blackfan anaemia|Miscellaneous||||
+LC31(A)|LC31(A)|LC|Blood|Heterozygosity for HbE/β0|RED CELL||||
+LC32(A)|LC32(A)|LC|BM trephine roll|Squamous cell carcinoma of the lung BM infiltration|Miscellaneous||||
+LC32(B)|LC32(B)|LC|BM trephine H&E|Squamous cell carcinoma of the lung BM infiltration|Miscellaneous||||
+LC32(C)|LC32(C)|LC|BM trephine reticulin|Squamous cell carcinoma of the lung BM infiltration|Miscellaneous||||
+LC33(A)|LC33(A)|LC|BM aspirate|Myelodysplastic syndrome with del(5q)|MYELOID||||
+LC33(B)|LC33(B)|LC|BM trephine|Myelodysplastic syndrome with del(5q)|MYELOID||||
+LC34(A)|LC34(A)|LC|Blood|CML blast crisis (lymphoid, paediatric case)|MYELOID||||
+LC34(B)|LC34(B)|LC|BM aspirate|CML blast crisis (lymphoid, paediatric case)|MYELOID||||
+MastcellleukemiaPBWV6820120215|LC35(A)|LC|Blood|Mast Cell leukaemia|MYELOID|HIG|||
+MastcellleukemiaBMAVW6820120215|LC35(B)|LC|BM aspirate|Mast Cell leukaemia|MYELOID|HIG|||
+MastcellleukemiaBMTVW6820120215|LC35(C) |LC|BM trephine|Mast Cell leukaemia|MYELOID|HIG|||
+LC36(A)|LC36(A)|LC|Blood 2|Hairy cell leukaemia|LYMPHOID||||
+LC36(B)|LC36(B)|LC|BM aspirate|Hairy cell leukaemia|LYMPHOID||||
+LC37(A)|LC37(A)|LC|BM trephine H&E|Marginal zone lymphoma|LYMPHOID||||
+LC37(B)|LC37(B)|LC|BM trephine CD5|Marginal zone lymphoma|LYMPHOID||||
+LC37(C)|LC37(C)|LC|BM trephine CD3|Marginal zone lymphoma|LYMPHOID||||
+LC37(D)|LC37(D)|LC|BM trephine CD20|Marginal zone lymphoma|LYMPHOID||||
+LC38(A)|LC38(A)|LC|BM trephine H&E|Grey zone lymphoma|LYMPHOID||||
+LC38(B)|LC38(B)|LC|BM trephine CD30|Grey zone lymphoma|LYMPHOID||||
+LC38(C)|LC38(C)|LC|BM trephine CD20|Grey zone lymphoma|LYMPHOID||||
+LC39(A)|LC39(A)|LC|BM aspirate|Haemophagocytic syndrome|Miscellaneous||||
+LC39(B)|LC39(B)|LC|BM trephine H&E|Haemophagocytic syndrome|Miscellaneous||||
+LC39(C)|LC39(C)|LC|BM trephine CD68|Haemophagocytic syndrome|Miscellaneous||||
+LC40(A)|LC40(A)|LC|BM aspirate|Myelodysplastic syndrome with prominent vacoulation|Miscellaneous||||
+LC41(A)|LC41(A)|LC|BM aspirate|Myelodysplastic syndrome with BPDCN|MYELOID||||
+C1|C1|C|Blood 3|Leucoeryhtroblastic blood film|Miscellaneous||||
+C2|C2|C|Blood 2|Marginal zone lymphoma in leukaemic phase|LYMPHOID||||
+C3|C3|C|Blood|Acute myeloid leukaemia with t(8;21)|MYELOID||||
+C4(A)|C4(A)|C|BM aspirate 2|Acute erythroblastic leukaemia|MYELOID||||
+C4(B)|C4(B)|C|BM trephine H&E|Acute erythroblastic leukaemia|MYELOID||||
+C4(C)|C4(C)|C|BM trephine reticulin|Acute erythroblastic leukaemia|MYELOID||||
+C5|C5|C|Blood 2|Chronic lymphocytic leukaemia (CLL)|LYMPHOID||||
+C6|C6|C|Blood|Reactive blood film|Miscellaneous||||
+C7|C7|C|BM aspirate|Multiple myeloma|LYMPHOID||||
+C8(A)|C8(A)|C|Blood|Burkitt lymphoma|LYMPHOID||||
+C8(B)|C8(B)|C|BM aspirate|Burkitt lymphoma|LYMPHOID||||
+C8(C)|C8(C)|C|BM trephine 2|Burkitt lymphoma|LYMPHOID||||
+C8(D)|C8(D)|C|BM trephine CD10|Burkitt lymphoma|LYMPHOID||||
+C8(E)|C8(E)|C|BM trephine KI67|Burkitt lymphoma|LYMPHOID||||
+C8(F)|C8(F)|C|BM trephine TdT|Burkitt lymphoma|LYMPHOID||||
+C8(G)|C8(G)|C|BM trephine CMYC|Burkitt lymphoma|LYMPHOID||||
+C9|C9|C|Blood 2|Megaloblastic anaemia|Miscellaneous||||
+C10|C10|C|Blood|Hereditary spherocytosis and acute parvovirus infection|Miscellaneous||||
+C11|C11|C|Blood|Mixed haemolytic anaemia|Miscellaneous||||
+C12|C12|C|Blood|Mixed MPN/MDS overlap syndrome|MYELOID||||
+C13|C13|C|Blood|Plasma cell leukaemia|LYMPHOID||||
+C14|C14|C|Blood 2|Sickle cell anaemia (HbSS)|Miscellaneous||||
+C15(A)|C15(A)|C|BM aspirate|Lobular breast cancer BM infiltration|Miscellaneous||||
+C15(B)|C15(B)|C|BM trephine|Lobular breast cancer BM infiltration|Miscellaneous||||
+C16(A)|C16(A)|C|BM trephine H&E|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID|AWAITING RESCAN|||
+C16(B)|C16(B)|C|BM trephine CD20|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(C)|C16(C)|C|BM trephine CD23|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(D)|C16(D)|C|BM trephine CD5|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(E)|C16(E)|C|BM trephine KAPPA|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(F)|C16(F)|C|BM trephine LAMBDA|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(G)|C16(G)|C|BM trephine CD10|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(H)|C16(H)|C|BM trephine CD138|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(I)|C16(I)|C|BM trephine CONGO RED|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID||||
+C16(J)|C16(J)|C|BM aspirate|Lymphoplasmacytic lymphoma and amyloid|LYMPHOID|AWAITING RESCAN|||
+C17(A)|C17(A)|C|Blood|Unusual CML|MYELOID||||
+C17(B)|C17(B)|C|BM aspirate|Unusual CML|MYELOID||||
+C17(C)|C17(C)|C|BM trephine H&E|Unusual CML|MYELOID||||
+C17(D)|C17(D)|C|BM trephine MPO|Unusual CML|MYELOID||||
+C17(E)|C17(E)|C|BM trephine CD34|Unusual CML|MYELOID||||
+C17(F)|C17(F)|C|BM trephine CD68|Unusual CML|MYELOID||||
+C17(G)|C17(G)|C|BM trephine CD61|Unusual CML|MYELOID||||
+C17(H)|C17(H)|C|BM trephine GLYCO|Unusual CML|MYELOID||||
+C17(I)|C17(I)|C|BM trephine reticulin|Unusual CML|MYELOID||||
+C18|C18|C|Blood 2|T-cell prolymphocytic leukaemia (T-PLL)|LYMPHOID||||
+C19(A)|C19(A)|C|Blood 2|Acute promyelocytic leukaemia |MYELOID||||
+C19(B)|C19(B)|C|BM aspirate|Acute promyelocytic leukaemia|MYELOID||||
+C20(A)|C20(A)|C|BM aspirate|High grade transformation of CLL|LYMPHOID|AWAITING RESCAN|||
+C20(B)|C20(B)|C|BM trephine|High grade transformation of CLL|LYMPHOID||||
+AMLM7VW362010727|C21|C|BM aspirate|Acute megakaryoblastic leukaemia |MYELOID|HIG|||

@@ -1,0 +1,732 @@
+@media (min-width: 1200px) {
+    .feature_section .container {
+        width: 1100px;
+    }
+
+    .modal-dialog {
+        width: 900px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .page-content .question {
+        margin-right: 0;
+    }
+
+    .page-content .mcq-questions {
+        width: 100%;
+        float: none;
+    }
+
+    .question-actions {
+        width: 100%;
+        float: none;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    .question-actions .menu_box {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        width: 960px;
+    }
+
+    .feature_section .container {
+        width: 860px;
+    }
+
+    .modal-dialog {
+        width: 900px;
+    }
+}
+
+@media (max-width: 991px) {
+    .user-dashboard #column-left {
+        display: block;
+    }
+
+    .user-dashboard .sidenav {
+        left: -400px;
+        min-height: 100%;
+    }
+
+    .user-dashboard .sidenav .closebtn {
+        display: block;
+    }
+
+    .user-dashboard #content {
+        margin-left: 0;
+    }
+    .mobile_show{
+        display: inline-block;
+    }
+    .desktop_show{
+        display: none;
+    }
+
+    .checkcontainer {
+        width: 49%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .container {
+        width: 100%;
+        max-width: 760px;
+    }
+
+    .nav ul li a {
+        padding: 15px 13px;
+    }
+
+    .feature_section .container {
+        width: 680px;
+    }
+
+}
+
+@media screen and (max-width: 780px) {
+    .feature_section{
+        padding: 50px 15px;
+    }
+    .content-row .mcq-ques-list-item{
+        left: 50px;
+    }
+    .mcq-questions .content-row{
+        padding: 10px;
+    }
+    .content-row .row-char{
+        margin-right: 30px;
+        padding-right: 0px;
+        width: 30px;
+    }
+    .payment-section{
+        padding: 50px 0px;
+    }
+    #fbModal .modal-dialog {
+        width: 90%;
+        max-width: 500px;
+    }
+    .menu_nav li span {
+        padding-left: 75px;
+    }
+    .menu_nav figure{
+        width: 55px;
+        height: 55px;
+    }
+    .form-signin {
+        max-width: 90%;
+    }
+
+    #remember-me{
+        margin-top: 8px;
+    }
+    .modal-dialog{
+        margin-top: 80px;
+    }
+    .pricing_section .sign-link{
+        padding: 20px;
+        width: 100%;
+        max-width: 300px;
+    }
+    .about-section .caption{
+        font-size: 70px;
+    }
+    .about-section .subcaption{
+        padding: 0px;
+    }
+    .contact-section {
+        padding: 70px 0;
+    }
+    .cases .case-item{
+        width: calc(25% - 30px);
+    }
+    .g-recaptcha div{
+        width: 100% !important;
+    }
+    .g-recaptcha iframe{
+        width: 100% !important;
+    }
+    .register-btn{
+        float: unset;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .asdmy_box {
+        width: 100%;
+        padding: 0 0px;
+        margin-bottom: 15px;
+    }
+
+    .blood_acdmy > span {
+        font-size: 20px;
+    }
+
+    .cont_from {
+        width: 100%;
+        padding: 20px 20px;
+        display: inline-block;
+        margin: 15px 0;
+    }
+
+    .form-signin {
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    .foot-nav {
+        background-size: 100% auto;
+    }
+
+    /*body #JiSlider {*/
+    /*width: 100%;*/
+    /*height: 275px;*/
+    /*}*/
+
+    .blood-academy-about {
+        padding: 0 0 25px 0;
+    }
+
+    .right_about h2 {
+        padding: 0;
+    }
+
+    h2, h2 span {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .right_about h2::before, .right_about h2::after {
+        background: none;
+    }
+
+    /*************************menu*****************************/
+    .head {
+        position: relative;
+    }
+
+    #click {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 25px;
+        color: #fff;
+        font-size: 44px;
+        cursor: pointer
+    }
+
+    .nav {
+        float: right;
+        position: absolute;
+        display: none;
+        top: 90px;
+        z-index: 99;
+        background: #000;
+        width: 198px;
+        right: 0;
+    }
+
+    .nav ul {
+        margin: 0px 0 0 0;
+        padding: 0 15px 15px;
+    }
+
+    .nav ul li {
+        float: none;
+        display: block;
+    }
+
+    .nav ul li a {
+        float: none;
+        padding: 11px 20px;
+        display: block;
+    }
+
+    /*************************menu*****************************/
+    .padding_tp-botm {
+        padding: 30px 0;
+    }
+
+    .padding_top {
+        padding-top: 30px;
+    }
+
+    .cont_from {
+        position: static;
+    }
+
+    .contact_section {
+        min-height: inherit;
+    }
+
+    .con_tant {
+        position: relative;
+        min-height: inherit;
+    }
+
+    .content {
+        padding: 0;
+    }
+
+    .footer {
+        position: relative;
+    }
+
+    body {
+        padding-bottom: 0;
+    }
+
+    .extend_icon {
+        float: left;
+        margin-right: 0;
+    }
+
+    .haematology.covering .extend_icon {
+        margin-left: 0;
+    }
+
+    .haematology {
+        padding: 0 0 0 0;
+    }
+
+    .database p {
+        margin-bottom: 15px;
+    }
+
+    .extend h3 {
+        font-size: 21px;
+    }
+
+    .introd_uctory {
+        width: 100%;
+        margin: 20px auto 0;
+    }
+
+    .offer h2 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: 15px;
+        padding: 0 15px;
+    }
+
+    .offer {
+        min-height: inherit;
+        padding: 25px 0;
+    }
+
+    .offer h1 {
+        font-size: 40px;
+        text-align: center;
+        margin: 14px 0;
+    }
+
+    .anchor a button, .anch a button {
+        height: auto;
+        font-size: 20px;
+    }
+
+    .divd_six {
+        width: 100%;
+        float: left;
+    }
+
+    .inner_banner {
+        /*min-height: inherit;*/
+        margin-bottom: 30px;
+    }
+
+    .about_sr {
+        padding: 35px 0;
+    }
+
+    .about_sr h2 {
+        margin: 0;
+    }
+
+    .Essay_bx {
+        width: 100%;
+        display: inline-block;
+        padding: 0;
+
+        border-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .third_prt {
+        float: left;
+        width: auto;
+        margin: 0 5px 5px 0px;
+    }
+
+    input[type="checkbox"], input[type="radio"] {
+        width: auto;
+        height: auto !important;
+        float: left;
+        margin-bottom: 0 !important;
+        margin-top: 3px;
+    }
+
+    .fourth_part {
+        float: none;
+        width: 100%;
+        padding: 0;
+        margin-bottom: 30px;
+        border-bottom: 2px solid #ccc;
+        padding-bottom: 15px;
+        display: inline-block;
+    }
+
+    .sixth_part {
+        width: 100%;
+    }
+
+    .rgt-btn {
+        font-size: 14px;
+        margin-right: 2px;
+        height: auto !important;
+        line-height: inherit !important;
+        text-align: center;
+    }
+
+    .mcq_form .dev_row label {
+        margin-bottom: 0;
+    }
+
+    .third_prt.full_rw50 {
+        width: 100%;
+    }
+
+    .mcq_form {
+        background: #e7e7e7;
+        padding: 15px;
+    }
+
+    .myaccount_se ul li a {
+        font-size: 14px;
+        padding: 10px 8px;
+    }
+
+    .dv_btn {
+        font-size: 14px;
+        padding: 10px 8px;
+    }
+
+    .myaccount_se ul li .dv_btn span p {
+        font-size: 14px;
+    }
+
+    .rec-up {
+        padding: 0;
+        margin: 10px 0px;
+        display: inline-block;
+        width: 100%;
+    }
+
+    .pay_main {
+        overflow: scroll;
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .page-title {
+        height: 90px;
+    }
+
+    .page-title p {
+        font-size: 24px;
+    }
+
+    .tab .tablinks {
+        width: 50%;
+        min-width: 120px;
+    }
+
+    .tablinks.fullwidth {
+        width: 100%;
+    }
+
+    .part_mobile_show{
+        display: block;
+    }
+    .part_mobile_hide{
+        display: none;
+    }
+
+    .menu_box {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .min_height {
+        min-height: auto;
+    }
+
+    .menu_nav li a {
+        font-size: 16px;
+    }
+
+    .Full-Width .menu_nav li {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .Full-Width .menu_nav li:last-child {
+        margin-bottom: 0
+    }
+
+    .plain-select select {
+        font-size: 16px;
+    }
+
+    .plain-select::after {
+        height: 39px;
+        width: 39px;
+        line-height: 39px;
+    }
+
+    .checkcontainer {
+        width: 100%;
+    }
+
+    .question-actions {
+        display: block;
+    }
+
+    .question-actions .menu_box {
+        width: 100%;
+    }
+
+    .menu_nav figure {
+        width: 50px;
+        height: 50px;
+    }
+
+    .menu_nav li span {
+        padding-left: 70px;
+        height: 50px;
+    }
+
+    .right-floated {
+        float: none;
+        margin-left: 0;
+    }
+
+    .modal-dialog {
+        margin: 30px auto;
+    }
+
+    .feature-chart {
+        width: 100%;
+    }
+
+    #coupon {
+        margin-top: 10px;
+    }
+
+    .link-icon {
+        float: left;
+        width: 50%;
+    }
+
+    .mobile_flex_show{
+        display: flex;
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+    .desktop_flex_show{
+        display: none;
+    }
+    .correct-mark, .incorrect-mark{
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+    }
+    .correct-mark + span, .incorrect-mark + span{
+        margin-right: 10px;
+    }
+    .incorrect-mark{
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+    }
+    .mcq_rows .checkcontainer{
+        width: 100%;
+    }
+    .mcq-questions, .emq-questions{
+        width: 100%;
+    }
+
+
+    /* Interactive Case Page */
+
+    #caseModal .instructions {
+        background-color: #18385C;
+        padding: 30px;
+    }
+
+    #caseModal .content {
+        padding: 30px 30px;
+    }
+
+    #caseModal .content h2 {
+        font-size: 24px;
+    }
+
+    #caseModal .content p, #caseModal .contact p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    #caseModal .contact {
+        padding: 30px 60px;
+    }
+
+    .menu_box .menu_title.icase {
+        width: 100%;
+    }
+
+    .case-summary > p {
+        display: block;
+    }
+
+    .panel-content .page-content {
+        padding: 50px 20px 20px;
+    }
+
+    .content-row {
+        padding: 15px 20px;
+    }
+
+    .content-row.icase, a.icase .content-row {
+        padding: 15px 20px 15px 10px;
+    }
+
+    .content-row .desc-image {
+        width: 40px;
+        height: 40px;
+        margin-right: 40px;
+    }
+
+    .col-separator.hublist {
+        left: 60px;
+    }
+
+    .case-description {
+        padding: 40px 0;
+    }
+
+    .case-description p {
+        padding: 0 20px;
+    }
+
+    .case-description ul li {
+        padding: 0 20px;
+    }
+
+    .menu_box .ref.icase {
+        min-height: 60px;
+        padding: 30px 20px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 779px) {
+    .container {
+        width: 90%;
+    }
+
+    .flash-message {
+        width: 100px;
+
+    }
+
+    div.tab button {
+        padding: 14px 13px;
+    }
+}
+
+@media (max-width: 620px) {
+    .content-row .row-label {
+        width: 100%;
+    }
+
+    .content-row .row-data {
+        width: 100%;
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 520px) {
+    #submitModal .modal-dialog {
+        width: auto;
+    }
+
+    .case-description ul li span {
+        width: 180px;
+    }
+
+    .feature_item {
+        padding-right: 0;
+    }
+
+    .analytic-panel .link-reset{
+        margin-top: 30px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 499px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .modal-dialog{
+        padding: 20px;
+    }
+    div.tab button {
+        padding: 14px 13px;
+    }
+
+    select {
+        width: 100%;
+    }
+
+    input[type="submit"], input[type="button"], .a-btn {
+        font-size: 14px;
+    }
+
+    button, a.btn {
+        font-size: 14px;
+    }
+
+    #chart-area {
+        height: auto !important;
+    }
+
+    .mcq_form .dev_row h4 {
+        margin-bottom: 8px;
+    }
+
+    .a-btn {
+        float: left;
+    }
+}
+
+@media (max-width: 479px) {
+    .case-description ul li span {
+        width: 150px;
+    }
+}
+
+@media (max-width: 350px) {
+    .tab .tablinks.icase {
+        min-width: 200px;
+    }
+
+}

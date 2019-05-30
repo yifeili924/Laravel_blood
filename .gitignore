@@ -1,0 +1,12 @@
+/vendor
+.idea/
+/node_modules
+Homestead.yaml
+.wordpress/
+.assets/images/Imagestosend/slides/
+.env
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+/storage/database.sqlite
+.htaccess
